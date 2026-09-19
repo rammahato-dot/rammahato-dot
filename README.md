@@ -1,113 +1,33 @@
-<h1 align="center">Hi 👋, I'm Ramgun Mahato</h1>
+# Ramgun Mahato
 
-<h3 align="center">
-BSc CSIT Student • Aspiring Software Developer • Lifelong Learner
-</h3>
+BSc CSIT student and aspiring software developer from Nepal.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramgun-mahato-737ab1302">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:rammahato6655@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ramgun-mahato-737ab1302) · [Email](mailto:rammahato6655@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a BSc CSIT student from Nepal with a passion for technology and continuous learning.
+I'm a Computer Science and Information Technology student building a strong foundation in programming and software development. I learn by building, and I use GitHub to document my work and track my progress.
 
-Currently, I'm strengthening my programming fundamentals while building practical projects and improving my Git & GitHub workflow.
+## Technical Focus
 
-I enjoy learning by creating things and documenting my progress along the way.
+| Area | Technologies |
+| --- | --- |
+| Web Development | HTML5, CSS3, JavaScript |
+| Programming | Python |
+| Computer Science | Data Structures and Algorithms |
+| Tools | Git, GitHub, VS Code |
 
----
-
-## 🌱 Currently Learning
-
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git & GitHub
-- Data Structures & Algorithms
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
-
-</p>
-
----
-
-## 🎯 Goals for 2026
+## Goals
 
 - Build practical software projects
-- Improve problem-solving skills
+- Strengthen problem-solving skills
 - Learn modern full-stack development
 - Contribute to open-source projects
-- Earn a software internship
+- Secure a software internship
 
----
+## Contact
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rammahato-dot&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammahato-dot&layout=compact&theme=transparent"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rammahato-dot&theme=transparent"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rammahato-dot&theme=github-compact"/>
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-Coming soon...
-
-Projects I'm building will appear here as I continue learning.
-
----
-
-## 📫 Connect with Me
-
-📧 **Email**
-
-**rammahato6655@gmail.com**
-
-💼 **LinkedIn**
-
-**https://www.linkedin.com/in/ramgun-mahato-737ab1302**
-
----
-
-<p align="center">
-Thanks for visiting my profile! ⭐
-</p>
+- **Email:** [rammahato6655@gmail.com](mailto:rammahato6655@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ramgun-mahato-737ab1302](https://www.linkedin.com/in/ramgun-mahato-737ab1302)
